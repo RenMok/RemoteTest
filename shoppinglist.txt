@@ -4,8 +4,5 @@
 4- Orange Juice
 5- Cereal
 6- Cookies
-<<<<<<< Updated upstream
 7- Lard
-=======
-7- water
->>>>>>> Stashed changes
+8- Water
