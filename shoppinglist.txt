@@ -4,3 +4,7 @@
 4- Orange Juice
 5- Cereal
 6- Cookies
+7- Bell Peppers
+8- Chocolate
+9- Cheese
+10- Wine
