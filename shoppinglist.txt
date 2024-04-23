@@ -3,7 +3,14 @@
 3- Lettuce
 4- Orange Juice
 5- Cereal
-6- Chicken
-7- Coffee
 6- Cookies
-7- Dog Food
+7- Bell Peppers
+8- Chocolate
+9- Cheese
+10- Wine
+11- Lard
+12- Eggs
+13- Chicken
+14- Coffee
+15- Cookies
+16- Dog Food
